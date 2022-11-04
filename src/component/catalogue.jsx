@@ -10,6 +10,10 @@ const Catalogue = () => {
             {
                 id:2,
                 name:"介绍"
+            },
+            {
+                id:3,
+                name:"设置"
             }
         ]
     )
